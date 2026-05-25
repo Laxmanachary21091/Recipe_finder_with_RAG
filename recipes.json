@@ -1,0 +1,227 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Spaghetti Carbonara",
+      "cuisine": "Italian",
+      "difficulty": "Medium",
+      "time_minutes": 20,
+      "servings": 4,
+      "ingredients": [
+        {"item": "spaghetti", "amount": 400, "unit": "g"},
+        {"item": "bacon", "amount": 200, "unit": "g"},
+        {"item": "eggs", "amount": 3, "unit": "whole"},
+        {"item": "parmesan cheese", "amount": 100, "unit": "g"},
+        {"item": "black pepper", "amount": 1, "unit": "tsp"},
+        {"item": "salt", "amount": 1, "unit": "tsp"}
+      ],
+      "instructions": [
+        "Cook spaghetti in salted boiling water until al dente, about 10 minutes.",
+        "While pasta cooks, fry bacon until crispy, then chop into pieces.",
+        "Beat eggs with grated parmesan and black pepper.",
+        "Drain pasta, reserving 1 cup pasta water.",
+        "Toss hot pasta with bacon and rendered fat.",
+        "Remove from heat, quickly stir in egg mixture, adding pasta water as needed.",
+        "Season with salt and pepper, serve immediately."
+      ],
+      "description": "Classic Italian pasta dish with crispy bacon, creamy egg sauce, and parmesan cheese"
+    },
+    {
+      "id": 2,
+      "name": "Vegetable Stir Fry",
+      "cuisine": "Chinese",
+      "difficulty": "Easy",
+      "time_minutes": 15,
+      "servings": 3,
+      "ingredients": [
+        {"item": "bell peppers", "amount": 2, "unit": "whole"},
+        {"item": "broccoli", "amount": 300, "unit": "g"},
+        {"item": "soy sauce", "amount": 3, "unit": "tbsp"},
+        {"item": "garlic", "amount": 3, "unit": "cloves"},
+        {"item": "ginger", "amount": 1, "unit": "tbsp"},
+        {"item": "vegetable oil", "amount": 2, "unit": "tbsp"},
+        {"item": "rice", "amount": 2, "unit": "cups"}
+      ],
+      "instructions": [
+        "Chop bell peppers and broccoli into bite-sized pieces.",
+        "Mince garlic and ginger.",
+        "Heat oil in a wok or large pan over high heat.",
+        "Add garlic and ginger, stir for 30 seconds until fragrant.",
+        "Add harder vegetables (broccoli) first, stir for 3 minutes.",
+        "Add softer vegetables (peppers), stir for 2 minutes.",
+        "Add soy sauce, mix well for 1 minute.",
+        "Serve over cooked rice."
+      ],
+      "description": "Quick and healthy vegetable stir fry with Asian flavors, perfect for busy weeknights"
+    },
+    {
+      "id": 3,
+      "name": "Grilled Chicken with Lemon",
+      "cuisine": "Mediterranean",
+      "difficulty": "Easy",
+      "time_minutes": 25,
+      "servings": 4,
+      "ingredients": [
+        {"item": "chicken breasts", "amount": 4, "unit": "whole"},
+        {"item": "lemon", "amount": 2, "unit": "whole"},
+        {"item": "olive oil", "amount": 3, "unit": "tbsp"},
+        {"item": "garlic", "amount": 4, "unit": "cloves"},
+        {"item": "rosemary", "amount": 2, "unit": "sprigs"},
+        {"item": "salt", "amount": 1, "unit": "tsp"},
+        {"item": "black pepper", "amount": 1, "unit": "tsp"}
+      ],
+      "instructions": [
+        "Mix olive oil, lemon juice, minced garlic, and rosemary in a bowl.",
+        "Coat chicken breasts with marinade and let sit for 10 minutes.",
+        "Preheat grill or grill pan to high heat.",
+        "Grill chicken for 6-7 minutes per side until cooked through.",
+        "Squeeze fresh lemon over cooked chicken.",
+        "Let rest for 3 minutes before serving."
+      ],
+      "description": "Light and flavorful Mediterranean grilled chicken with fresh lemon and herbs"
+    },
+    {
+      "id": 4,
+      "name": "Chocolate Chip Cookies",
+      "cuisine": "American",
+      "difficulty": "Easy",
+      "time_minutes": 30,
+      "servings": 24,
+      "ingredients": [
+        {"item": "all-purpose flour", "amount": 2.25, "unit": "cups"},
+        {"item": "butter", "amount": 1, "unit": "cup"},
+        {"item": "brown sugar", "amount": 0.75, "unit": "cup"},
+        {"item": "white sugar", "amount": 0.75, "unit": "cup"},
+        {"item": "eggs", "amount": 2, "unit": "whole"},
+        {"item": "vanilla extract", "amount": 1, "unit": "tsp"},
+        {"item": "baking soda", "amount": 1, "unit": "tsp"},
+        {"item": "salt", "amount": 1, "unit": "tsp"},
+        {"item": "chocolate chips", "amount": 2, "unit": "cups"}
+      ],
+      "instructions": [
+        "Preheat oven to 375°F (190°C).",
+        "Cream together butter and both sugars until light and fluffy.",
+        "Beat in eggs and vanilla extract.",
+        "In separate bowl, mix flour, baking soda, and salt.",
+        "Gradually blend dry mixture into creamed mixture.",
+        "Stir in chocolate chips.",
+        "Drop spoonfuls onto ungreased cookie sheets.",
+        "Bake for 9-11 minutes or until golden brown.",
+        "Cool on baking sheets for 2 minutes, then transfer to wire racks."
+      ],
+      "description": "Classic homemade chocolate chip cookies, soft and chewy with melty chocolate"
+    },
+    {
+      "id": 5,
+      "name": "Butter Chicken Curry",
+      "cuisine": "Indian",
+      "difficulty": "Medium",
+      "time_minutes": 40,
+      "servings": 4,
+      "ingredients": [
+        {"item": "chicken", "amount": 800, "unit": "g"},
+        {"item": "butter", "amount": 4, "unit": "tbsp"},
+        {"item": "onions", "amount": 3, "unit": "whole"},
+        {"item": "garlic", "amount": 6, "unit": "cloves"},
+        {"item": "ginger", "amount": 2, "unit": "tbsp"},
+        {"item": "tomato paste", "amount": 3, "unit": "tbsp"},
+        {"item": "cream", "amount": 1, "unit": "cup"},
+        {"item": "curry powder", "amount": 2, "unit": "tbsp"},
+        {"item": "rice", "amount": 2, "unit": "cups"}
+      ],
+      "instructions": [
+        "Cut chicken into bite-sized pieces.",
+        "Melt butter in a large pan, add diced onions and cook until golden.",
+        "Add minced garlic and ginger, cook for 1 minute.",
+        "Add curry powder and tomato paste, cook for 2 minutes.",
+        "Add chicken pieces and cook until browned on all sides.",
+        "Add cream and simmer for 20 minutes until chicken is cooked through.",
+        "Season with salt and pepper to taste.",
+        "Serve over steamed rice."
+      ],
+      "description": "Creamy and aromatic Indian butter chicken curry, rich and satisfying"
+    },
+    {
+      "id": 6,
+      "name": "Caesar Salad",
+      "cuisine": "Italian-American",
+      "difficulty": "Easy",
+      "time_minutes": 10,
+      "servings": 2,
+      "ingredients": [
+        {"item": "romaine lettuce", "amount": 1, "unit": "head"},
+        {"item": "parmesan cheese", "amount": 50, "unit": "g"},
+        {"item": "croutons", "amount": 1, "unit": "cup"},
+        {"item": "anchovies", "amount": 4, "unit": "fillets"},
+        {"item": "lemon juice", "amount": 2, "unit": "tbsp"},
+        {"item": "olive oil", "amount": 3, "unit": "tbsp"},
+        {"item": "garlic", "amount": 2, "unit": "cloves"},
+        {"item": "salt", "amount": 0.5, "unit": "tsp"}
+      ],
+      "instructions": [
+        "Wash and chop romaine lettuce into bite-sized pieces.",
+        "Make dressing: mash anchovies with garlic, mix with lemon juice and olive oil.",
+        "Toss lettuce with dressing.",
+        "Top with croutons and shaved parmesan cheese.",
+        "Serve immediately."
+      ],
+      "description": "Fresh and crisp Caesar salad with creamy anchovy dressing and crunchy croutons"
+    },
+    {
+      "id": 7,
+      "name": "Tacos al Pastor",
+      "cuisine": "Mexican",
+      "difficulty": "Medium",
+      "time_minutes": 30,
+      "servings": 4,
+      "ingredients": [
+        {"item": "pork shoulder", "amount": 800, "unit": "g"},
+        {"item": "pineapple", "amount": 200, "unit": "g"},
+        {"item": "red chili", "amount": 3, "unit": "whole"},
+        {"item": "cumin", "amount": 1, "unit": "tbsp"},
+        {"item": "garlic", "amount": 4, "unit": "cloves"},
+        {"item": "vinegar", "amount": 2, "unit": "tbsp"},
+        {"item": "tortillas", "amount": 8, "unit": "whole"},
+        {"item": "onion", "amount": 1, "unit": "whole"},
+        {"item": "cilantro", "amount": 0.5, "unit": "cup"}
+      ],
+      "instructions": [
+        "Slice pork thinly. Make marinade with chili, cumin, garlic, vinegar, and pineapple juice.",
+        "Marinate pork for at least 1 hour.",
+        "Cook marinated pork in a hot pan until caramelized, about 10 minutes.",
+        "Warm tortillas in a separate pan.",
+        "Grill pineapple slices until caramelized.",
+        "Fill tortillas with pork, top with pineapple, onion, and cilantro.",
+        "Serve with lime wedges."
+      ],
+      "description": "Delicious Mexican-style pork tacos with caramelized pineapple and authentic spices"
+    },
+    {
+      "id": 8,
+      "name": "Salmon with Vegetables",
+      "cuisine": "Scandinavian",
+      "difficulty": "Medium",
+      "time_minutes": 35,
+      "servings": 4,
+      "ingredients": [
+        {"item": "salmon fillets", "amount": 4, "unit": "whole"},
+        {"item": "asparagus", "amount": 300, "unit": "g"},
+        {"item": "carrots", "amount": 4, "unit": "whole"},
+        {"item": "dill", "amount": 2, "unit": "tbsp"},
+        {"item": "lemon", "amount": 1, "unit": "whole"},
+        {"item": "olive oil", "amount": 2, "unit": "tbsp"},
+        {"item": "salt", "amount": 1, "unit": "tsp"},
+        {"item": "black pepper", "amount": 1, "unit": "tsp"}
+      ],
+      "instructions": [
+        "Preheat oven to 400°F (200°C).",
+        "Arrange salmon on a baking sheet with vegetables.",
+        "Drizzle with olive oil and lemon juice.",
+        "Season with salt, pepper, and fresh dill.",
+        "Bake for 15-20 minutes until salmon is cooked through.",
+        "Serve hot with lemon wedges."
+      ],
+      "description": "Healthy and elegant baked salmon with roasted vegetables and fresh herbs"
+    }
+  ]
+}
